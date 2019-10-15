@@ -1,7 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:friendly_forest_02/social_media_icon_icons.dart';
 
 class SizeConfig {
   static MediaQueryData _mediaQueryData;

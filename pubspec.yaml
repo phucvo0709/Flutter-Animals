@@ -56,7 +56,7 @@ flutter:
   fonts:
     - family: Manjari
       fonts:
-        - asset: fonts/Manjari/Majari-Regular.ttf
+        - asset: fonts/Manjari/Manjari-Regular.ttf
 
     - family: MajariBold
       fonts:
